@@ -1,0 +1,8 @@
+{
+    "addonid": "marginnote.extension.mn-addon-template",
+    "author": "BryanHuang",
+    "title": "mn-addon-template",
+    "version": "1.0.3",
+    "marginnote_version_min": "3.7.10",
+    "cert_key": ""
+}
